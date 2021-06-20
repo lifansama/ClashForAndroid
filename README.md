@@ -1,4 +1,4 @@
-## Clash for Android.
+## Clash for Android
 
 A Graphical user interface of [clash](https://github.com/Dreamacro/clash) for Android
 
@@ -54,3 +54,10 @@ See also [PRIVACY_POLICY.md](./PRIVACY_POLICY.md)
    ```
 
 6. Pick `app-foss-<arch>-release-signed.apk` in `app/build/outputs/apk/foss/release/`
+
+
+
+
+
+
+test
